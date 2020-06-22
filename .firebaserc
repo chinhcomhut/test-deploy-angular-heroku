@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "chinhbeo-18d3b"
+  },
+  "targets": {
+    "chinhbeo-18d3b": {
+      "hosting": {
+        "ngx-audio-player-demo": [
+          "chinhbeo-18d3b"
+        ]
+      }
+    }
+  }
+}
